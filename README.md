@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi , I'm Aliya Tariq</h1>
----
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliya-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="aliya-tariq" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliya-tariq" alt="aliya-tariq" /></a> </p>
----
+
 
 - 🔭 I’m currently working on **my personal portfolio website**
 
@@ -33,8 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliya-tariq&show_icons=true&locale=en&layout=compact" alt="aliya-tariq" /></p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliya-tariq&show_icons=true&locale=en" alt="aliya-tariq" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliya-tariq&" alt="aliya-tariq" /></p>
