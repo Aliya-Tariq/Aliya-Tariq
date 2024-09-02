@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML and game development**
 
-- 👯 I’m open to collaborate with developers here on **any unique and intreseting project**
+- 👯 I’m open to collaborate with developers here on **any unique and interesting project**
 
 - 💬 Ask me about **Javascript, CSS frameworks, unity, godot**
 
