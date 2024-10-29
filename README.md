@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Aliya </h1>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliya-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="aliya-tariq" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliya-tariq" alt="aliya-tariq" /></a> </p>
 
 - 🔭 I’m currently working on my **Final year AI/ML project(healthcare chatbot with symptom analysis)**
 
@@ -33,6 +30,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliya-tariq&" alt="aliya-tariq" /></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliya-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="aliya-tariq" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliya-tariq" alt="aliya-tariq" /></a> </p>
 
 
 
