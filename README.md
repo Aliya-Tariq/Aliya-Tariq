@@ -2,9 +2,7 @@
  </h1>
  <p align="center">
 
-  <a href="https://linkedin.com/in/www.linkedin.com/in/aliya-tariq-a51665203">LinkedIn</a> - 
-  <a href="https://www.leetcode.com/https://leetcode.com/u/aliyatariq2000/">LEETCODE</a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aliyatariq2000">HACKERRANK</a>
+  
 </p>
 
 
