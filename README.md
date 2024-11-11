@@ -7,7 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliya-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="aliya-tariq" /> </p>
- <img src ="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif"/>
+ 
  
 - 🔭 I’m currently working on my **Final year AI/ML project"healthcare chatbot with symptom analysis"**
 
