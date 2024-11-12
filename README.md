@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AI/ML and game development**
 
-- 👯 I’m open to collaborate with developers here on **any unique and interesting project**
+- 👯 I’m open to collaborate with developers on **any unique and interesting project**
 
 - 💬 Ask me about **Javascript, CSS frameworks, unity, godot**
 
