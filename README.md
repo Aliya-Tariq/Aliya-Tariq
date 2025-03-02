@@ -15,7 +15,7 @@
 
 - 👯 I’m open to collaborate with developers on **any unique and interesting project**
 
-- 💬 Ask me about **Javascript, CSS frameworks, unity, godot**
+- 💬 Ask me about **Javascript, Python, CSS frameworks, unity, godot**
 
 - 📫 How to reach me **happyhustler26@gmail.com**
 
