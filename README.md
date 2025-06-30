@@ -15,9 +15,9 @@
 
 - 👯 I’m open to collaborate with developers on **any unique and interesting project**
 
-- 💬 Ask me about **Javascript, Python, CSS frameworks, unity, godot**
+- 💬 Ask me about **Javascript, Python, CSS frameworks, React, AI agents, CI/CD, database and frontend frameworks**
 
-- 📫 How to reach me **happyhustler26@gmail.com**
+- 📫 How to reach me **aliyatariq.dev@gmail.com**
 
 - ⚡ Fun fact **I like to pretend as if i know everything, when infact i know nothing :)**
 
