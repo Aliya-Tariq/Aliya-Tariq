@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliya-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="aliya-tariq" /> </p>
  
  
-- 🔭 I’m currently working on my **Final year AI/ML project"healthcare chatbot with symptom analysis"**
 
-- 🌱 I’m currently learning **AI/ML and game development**
+
+- 🌱 I’m currently learning **Frontend technologies**
 
 - 👯 I’m open to collaborate with developers on **any unique and interesting project**
 
