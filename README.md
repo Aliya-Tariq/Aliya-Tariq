@@ -36,7 +36,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliya-tariq&" alt="aliya-tariq" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliya-tariq&" alt="aliya-tariq" /> </p>
 
 
 
