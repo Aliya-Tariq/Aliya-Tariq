@@ -11,7 +11,7 @@
  
 
 
-- 🌱 I’m currently learning **Frontend technologies**
+- 🌱 I’m currently learning **AI Automation**
 
 - 👯 I’m open to collaborate with developers on **any unique and interesting project**
 
