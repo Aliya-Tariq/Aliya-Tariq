@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AI Automation**
 
-- 👯 I’m open to collaborate with developers on **any unique and interesting project**
+- 👯 I’m interested in collaborating with developers on **unique and interesting projects**
 
 - 💬 Ask me about **Javascript, Python, CSS frameworks, React, AI agents, CI/CD, database and frontend frameworks**
 
