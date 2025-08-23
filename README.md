@@ -11,7 +11,7 @@
  
 
 
-- 🌱 I’m currently learning **AI Automation**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m interested in collaborating with developers on **unique and interesting projects**
 
